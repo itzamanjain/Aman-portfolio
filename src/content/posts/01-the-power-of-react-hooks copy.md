@@ -6,7 +6,7 @@ slug: "react-vs-next"
 isPublish: true
 ---
 
-# React vs Next.js: Choosing the Right Tool for Your Project
+## React vs Next.js: Choosing the Right Tool for Your Project
 
 When it comes to building web applications with JavaScript, React and Next.js are two popular choices among developers. While both frameworks are based on React and offer powerful features for building modern web applications, they have distinct differences that make them suitable for different use cases. In this blog post, we'll explore the differences between React and Next.js and help you choose the right tool for your project.
 

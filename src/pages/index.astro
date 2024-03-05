@@ -93,7 +93,10 @@ const posts = (await getCollection("posts")).sort(function (first, second) {
         <h3 class="text-lg text-neutral-100">Get in touch</h3>
       </header>
       <p>
-  Email me at <a href={`mailto:${presentation.mail}`} className="underline">{presentation.mail}</a> or follow me via my social links.
+        Email me at <Link class="underline"
+          href={`mailto:${presentation.mail}`}
+          label={presentation.mail}
+        /> or follow me via my social links.
       </p>
 
 

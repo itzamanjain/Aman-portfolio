@@ -12,15 +12,16 @@ const projects: Project[] = [
     link: "https://ekchaipilade.vercel.app",
   },
   {
-    title: "Portfolio / Lina BLIDI",
+    title: "Customer Support using Discord",
     techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    link: "/",
+    isComingSoon: true,
   },
   {
     title: "Portfolio ",
     techs: ["Astro"],
     link: "/",
-    isComingSoon: true,
+    
   },
 ];
 

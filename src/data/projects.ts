@@ -12,15 +12,15 @@ const projects: Project[] = [
     link: "https://ekchaipilade.vercel.app",
   },
   {
-    title: "Customer Support using Discord",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "/",
-    isComingSoon: true,
+    title: "Code Share",
+    techs: ["NextJS", "TypeScript","zod","mongoDb"],
+    link: "https://www.codeshare.tech",
+    
   },
   {
-    title: "Portfolio ",
-    techs: ["Astro"],
-    link: "/",
+    title: "AnonChat Backend ",
+    techs: "MERN",
+    link: "https://github.com/itzamanjain/anonchat-backend",
     
   },
 ];

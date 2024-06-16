@@ -12,9 +12,9 @@ const projects: Project[] = [
     link: "https://ekchaipilade.vercel.app",
   },
   {
-    title: "Code Share",
-    techs: ["NextJS", "TypeScript","zod","mongoDb"],
-    link: "https://www.codeshare.tech",
+    title: "AI DIARY",
+    techs: ["NextJS", "TypeScript","React Native","mongoDb"],
+    link: "https://buildspace-s5.vercel.app",
     
   },
   {
